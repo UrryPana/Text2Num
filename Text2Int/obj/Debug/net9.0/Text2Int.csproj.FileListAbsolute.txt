@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\bin\Debug\net9.0\Text2Int.exe
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\bin\Debug\net9.0\Text2Int.deps.json
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\bin\Debug\net9.0\Text2Int.runtimeconfig.json
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\bin\Debug\net9.0\Text2Int.dll
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\bin\Debug\net9.0\Text2Int.pdb
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.AssemblyInfo.cs
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.dll
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\refint\Text2Int.dll
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.pdb
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\Text2Int.genruntimeconfig.cache
+C:\Users\admin\Desktop\c#Practice\Text2Int\Text2Int\obj\Debug\net9.0\ref\Text2Int.dll
