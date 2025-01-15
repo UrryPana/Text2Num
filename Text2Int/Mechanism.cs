@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 namespace Text2Int
 {
     /// <summary>
-    /// This converts text to numbers up to a trillion
+    /// This converts text to numbers up to Quintillion
     /// </summary>
     public class Mechanism
     {

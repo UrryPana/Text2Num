@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\c#Practice\\Text2Int\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{495E5679-0928-4486-88B8-54D5CEDF9426}|Text2Int\\Text2Int.csproj|c:\\users\\admin\\desktop\\c#practice\\text2int\\text2int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495E5679-0928-4486-88B8-54D5CEDF9426}|Text2Int\\Text2Int.csproj|solutionrelative:text2int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{495E5679-0928-4486-88B8-54D5CEDF9426}|Text2Int\\Text2Int.csproj|c:\\users\\admin\\desktop\\c#practice\\text2int\\text2int\\mechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{495E5679-0928-4486-88B8-54D5CEDF9426}|Text2Int\\Text2Int.csproj|solutionrelative:text2int\\mechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495E5679-0928-4486-88B8-54D5CEDF9426}|Text2Int\\Text2Int.csproj|c:\\users\\admin\\desktop\\c#practice\\text2int\\text2int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495E5679-0928-4486-88B8-54D5CEDF9426}|Text2Int\\Text2Int.csproj|solutionrelative:text2int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Mechanism.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\c#Practice\\Text2Int\\Text2Int\\Mechanism.cs",
               "RelativeDocumentMoniker": "Text2Int\\Mechanism.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\c#Practice\\Text2Int\\Text2Int\\Mechanism.cs",
               "RelativeToolTip": "Text2Int\\Mechanism.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T14:35:21.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\c#Practice\\Text2Int\\Text2Int\\Program.cs",
               "RelativeDocumentMoniker": "Text2Int\\Program.cs",
